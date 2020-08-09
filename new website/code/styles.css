@@ -1,0 +1,137 @@
+p{
+	line-height: 35px;
+}
+
+h1{
+    font-family: cursive;
+    font-size: 30px;
+	text-align: center;
+	color: white;
+	
+}
+
+nav {
+	background-color: purple;
+	overflow: hidden;
+	width: 100%;
+	text-align: center;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	height: 145px;
+	border-bottom: solid;
+	
+}
+
+nav a {
+	color: white;
+	display: inline-block;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 5px;
+	padding-bottom: 30px;
+	text-decoration: none;
+	font-size: 25px;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	border-style: solid;
+	border-width: 2px;
+	border-color: rgb(46, 0, 77);
+
+}
+
+nav a:hover{
+    background-color: yellow;
+	color: black;
+	border-color: white;
+}
+
+html{
+    background-color: violet;
+}
+
+.content{
+	background-color: rgb(245, 174, 244);
+	margin-top: 30px;
+	margin-left: 60px;
+	margin-right: 60px;
+	font-size: 20px;
+	padding-left: 50px;
+	padding-right: 50px;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.centerimg{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: solid;
+	border-width: 5px;
+}
+
+.centertext{
+	text-align: center;
+	font-size: 13px;
+}
+
+.header{
+	padding-top: 150px;
+	font-family: cursive;
+	text-align: center;
+	font-size: 25px;
+}
+
+#smaller{
+	height: 250px;
+}
+
+.rightimg{
+	float: right;
+	display: block;
+	border-style: solid;
+	border-width: 5px;
+	height: 250px;
+	margin-left: 50px;
+	font-size: 3px;
+}
+
+#speedmanga{
+	background-color: purple;
+}
+
+.list{
+	width: 100%;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	color: red;
+	font-style: italic;
+	font-size: 30px;
+}
+
+.standpics{
+	height: 400px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h2{
+	text-align: center;
+	margin-bottom: 30px;
+	font-family: cursive
+}
+
+.standmaster{
+	font-size: 25px;
+	font-family: cursive;
+	width: 400px;
+}
+
+table, th{
+	border-spacing: 2px;
+	text-align: right;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	text-align: center;
+}
